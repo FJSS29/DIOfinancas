@@ -1,0 +1,249 @@
+
+PROMPT: 
+
+Data	Tipo	Categoria	Descrição	Valor	Operação Bancária	Status
+08/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+08/01/2024	SAÍDA	Alimentação	Compras no supermercado	550,00	Débito Automático	Pendente
+08/03/2024	SAÍDA	Transporte	Gasolina	300,00	Cartão de Crédito	Pago
+08/05/2024	SAÍDA	Lazer	Cinema	120,00	Cartão de Crédito	Pago
+08/07/2024	SAÍDA	Saúde	Consulta odontológica	250,00	Transferência	Pago
+08/10/2024	SAÍDA	Educação	Material escolar	400,00	Débito Automático	Pendente
+08/12/2024	SAÍDA	Vestuário	Compra de roupas de inverno	600,00	Cartão de Crédito	Pendente
+15/08/2024	ENTRADA	Investimentos	Dividendos de ações	800,00	Transferência	Recebido
+15/08/2024	SAÍDA	Serviços	Limpeza do apartamento	150,00	Transferência	Pago
+18/08/2024	SAÍDA	Eletrônicos	Compra de novo celular	1200,00	Cartão de Crédito	Pendente
+20/08/2024	SAÍDA	Utilidades Domésticas	Reparos domésticos	450,00	Débito Automático	Pago
+22/08/2024	SAÍDA	Presentes	Presente de aniversário	180,00	Transferência	Pendente
+24/08/2024	SAÍDA	Beleza	Corte de cabelo e barba	80,00	Débito Automático	Pago
+28/08/2024	SAÍDA	Pet Care	Ração e petiscos para o cachorro	200,00	Débito Automático	Pago
+30/08/2024	SAÍDA	Viagem	Reserva de pousada	750,00	Transferência	Pendente
+31/08/2024	SAÍDA	Gastronomia	Jantar em restaurante francês	350,00	Cartão de Crédito	Pago
+09/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+09/02/2024	SAÍDA	Alimentação	Compras no supermercado	450,00	Débito Automático	Pendente
+09/05/2024	SAÍDA	Transporte	Gasolina	300,00	Débito Automático	Pago
+09/08/2024	SAÍDA	Lazer	Cinema e jantar	200,00	Transferência	Pago
+09/11/2024	SAÍDA	Saúde	Plano de saúde	600,00	Débito Automático	Pendente
+14/09/2024	SAÍDA	Educação	Material escolar	350,00	Transferência	Pago
+17/09/2024	SAÍDA	Vestuário	Compra de roupas	500,00	Cartão de Crédito	Pendente
+20/09/2024	ENTRADA	Freelance	Pagamento por projeto freelancer	1200,00	Transferência	Recebido
+20/09/2024	SAÍDA	Serviços	Manutenção do veículo	800,00	Transferência	Pago
+23/09/2024	SAÍDA	Eletrônicos	Compra de novo smartphone	1500,00	Cartão de Crédito	Pendente
+26/09/2024	SAÍDA	Utilidades Dom.	Conta de energia elétrica	250,00	Débito Automático	Pago
+29/09/2024	SAÍDA	Presentes	Aniversário da mãe	400,00	Cartão de Crédito	Pendente
+10/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+10/01/2024	SAÍDA	Alimentação	Compras no supermercado	600,00	Débito Automático	Pendente
+10/03/2024	SAÍDA	Transporte	Recarga de cartão de transporte	200,00	Cartão de Crédito	Pago
+10/05/2024	SAÍDA	Lazer	Ingressos para teatro	180,00	Transferência	Pago
+10/08/2024	SAÍDA	Saúde	Remédios de farmácia	120,00	Débito Automático	Pendente
+10/10/2024	SAÍDA	Educação	Cursos online	350,00	Cartão de Crédito	Pendente
+13/10/2024	SAÍDA	Vestuário	Roupas de primavera	400,00	Transferência	Pago
+15/10/2024	SAÍDA	Serviços	Manutenção da casa	450,00	Débito Automático	Pago
+18/10/2024	ENTRADA	Venda de ativos	Venda de equipamentos eletrônicos	1500,00	Transferência	Recebido
+18/10/2024	SAÍDA	Eletrônicos	Manutenção do computador	300,00	Cartão de Crédito	Pendente
+20/10/2024	SAÍDA	Utilidades Domésticas	Troca de móveis da cozinha	800,00	Transferência	Pago
+22/10/2024	SAÍDA	Presentes	Presentes para casamento	250,00	Cartão de Crédito	Pendente
+24/10/2024	SAÍDA	Pet Care	Veterinário para o pet	150,00	Débito Automático	Pago
+26/10/2024	SAÍDA	Beleza	Salão de beleza	250,00	Transferência	Pendente
+30/10/2024	SAÍDA	Gastronomia	Jantar em restaurante italiano	220,00	Transferência	Pendente
+31/10/2024	SAÍDA	Viagem	Reserva de hotel para fim de semana	500,00	Cartão de Crédito	Pendente
+
+
+
+
+RESPOSTA:
+
+Aqui está um resumo das suas transações de entradas e saídas, divididas por categoria e com o status das operações:
+
+### **Entradas:**
+| Data        | Tipo        | Categoria       | Descrição                              | Valor     | Operação Bancária | Status    |
+|-------------|-------------|-----------------|----------------------------------------|-----------|-------------------|-----------|
+| 08/01/2024  | ENTRADA     | Renda Fixa      | Salário mensal                        | 5000,00   | Transferência     | Recebido  |
+| 15/08/2024  | ENTRADA     | Investimentos   | Dividendos de ações                    | 800,00    | Transferência     | Recebido  |
+| 09/01/2024  | ENTRADA     | Renda Fixa      | Salário mensal                        | 5000,00   | Transferência     | Recebido  |
+| 20/09/2024  | ENTRADA     | Freelance       | Pagamento por projeto freelancer       | 1200,00   | Transferência     | Recebido  |
+| 10/01/2024  | ENTRADA     | Renda Fixa      | Salário mensal                        | 5000,00   | Transferência     | Recebido  |
+| 18/10/2024  | ENTRADA     | Venda de ativos | Venda de equipamentos eletrônicos      | 1500,00   | Transferência     | Recebido  |
+
+### **Saídas:**
+| Data        | Tipo        | Categoria       | Descrição                              | Valor     | Operação Bancária | Status    |
+|-------------|-------------|-----------------|----------------------------------------|-----------|-------------------|-----------|
+| 08/01/2024  | SAÍDA       | Alimentação     | Compras no supermercado                | 550,00    | Débito Automático | Pendente  |
+| 08/03/2024  | SAÍDA       | Transporte      | Gasolina                               | 300,00    | Cartão de Crédito | Pago      |
+| 08/05/2024  | SAÍDA       | Lazer           | Cinema                                 | 120,00    | Cartão de Crédito | Pago      |
+| 08/07/2024  | SAÍDA       | Saúde           | Consulta odontológica                  | 250,00    | Transferência     | Pago      |
+| 08/10/2024  | SAÍDA       | Educação        | Material escolar                       | 400,00    | Débito Automático | Pendente  |
+| 08/12/2024  | SAÍDA       | Vestuário       | Compra de roupas de inverno            | 600,00    | Cartão de Crédito | Pendente  |
+| 15/08/2024  | SAÍDA       | Serviços        | Limpeza do apartamento                 | 150,00    | Transferência     | Pago      |
+| 18/08/2024  | SAÍDA       | Eletrônicos     | Compra de novo celular                 | 1200,00   | Cartão de Crédito | Pendente  |
+| 20/08/2024  | SAÍDA       | Utilidades Domésticas | Reparos domésticos                  | 450,00    | Débito Automático | Pago      |
+| 22/08/2024  | SAÍDA       | Presentes       | Presente de aniversário                | 180,00    | Transferência     | Pendente  |
+| 24/08/2024  | SAÍDA       | Beleza          | Corte de cabelo e barba                | 80,00     | Débito Automático | Pago      |
+| 28/08/2024  | SAÍDA       | Pet Care        | Ração e petiscos para o cachorro       | 200,00    | Débito Automático | Pago      |
+| 30/08/2024  | SAÍDA       | Viagem          | Reserva de pousada                     | 750,00    | Transferência     | Pendente  |
+| 31/08/2024  | SAÍDA       | Gastronomia     | Jantar em restaurante francês          | 350,00    | Cartão de Crédito | Pago      |
+| 09/01/2024  | SAÍDA       | Alimentação     | Compras no supermercado                | 450,00    | Débito Automático | Pendente  |
+| 09/05/2024  | SAÍDA       | Transporte      | Gasolina                               | 300,00    | Débito Automático | Pago      |
+| 09/08/2024  | SAÍDA       | Lazer           | Cinema e jantar                        | 200,00    | Transferência     | Pago      |
+| 09/11/2024  | SAÍDA       | Saúde           | Plano de saúde                         | 600,00    | Débito Automático | Pendente  |
+| 14/09/2024  | SAÍDA       | Educação        | Material escolar                       | 350,00    | Transferência     | Pago      |
+| 17/09/2024  | SAÍDA       | Vestuário       | Compra de roupas                       | 500,00    | Cartão de Crédito | Pendente  |
+| 20/09/2024  | SAÍDA       | Serviços        | Manutenção do veículo                  | 800,00    | Transferência     | Pago      |
+| 23/09/2024  | SAÍDA       | Eletrônicos     | Compra de novo smartphone              | 1500,00   | Cartão de Crédito | Pendente  |
+| 26/09/2024  | SAÍDA       | Utilidades Domésticas | Conta de energia elétrica            | 250,00    | Débito Automático | Pago      |
+| 29/09/2024  | SAÍDA       | Presentes       | Aniversário da mãe                     | 400,00    | Cartão de Crédito | Pendente  |
+| 10/01/2024  | SAÍDA       | Alimentação     | Compras no supermercado                | 600,00    | Débito Automático | Pendente  |
+| 10/03/2024  | SAÍDA       | Transporte      | Recarga de cartão de transporte        | 200,00    | Cartão de Crédito | Pago      |
+| 10/05/2024  | SAÍDA       | Lazer           | Ingressos para teatro                  | 180,00    | Transferência     | Pago      |
+| 10/08/2024  | SAÍDA       | Saúde           | Remédios de farmácia                   | 120,00    | Débito Automático | Pendente  |
+| 10/10/2024  | SAÍDA       | Educação        | Cursos online                          | 350,00    | Cartão de Crédito | Pendente  |
+| 13/10/2024  | SAÍDA       | Vestuário       | Roupas de primavera                    | 400,00    | Transferência     | Pago      |
+| 15/10/2024  | SAÍDA       | Serviços        | Manutenção da casa                     | 450,00    | Débito Automático | Pago      |
+| 18/10/2024  | SAÍDA       | Eletrônicos     | Manutenção do computador               | 300,00    | Cartão de Crédito | Pendente  |
+| 20/10/2024  | SAÍDA       | Utilidades Domésticas | Troca de móveis da cozinha            | 800,00    | Transferência     | Pago      |
+| 22/10/2024  | SAÍDA       | Presentes       | Presentes para casamento               | 250,00    | Cartão de Crédito | Pendente  |
+| 24/10/2024  | SAÍDA       | Pet Care        | Veterinário para o pet                 | 150,00    | Débito Automático | Pago      |
+| 26/10/2024  | SAÍDA       | Beleza          | Salão de beleza                        | 250,00    | Transferência     | Pendente  |
+| 30/10/2024  | SAÍDA       | Gastronomia     | Jantar em restaurante italiano         | 220,00    | Transferência     | Pendente  |
+| 31/10/2024  | SAÍDA       | Viagem          | Reserva de hotel para fim de semana    | 500,00    | Cartão de Crédito | Pendente  |
+
+### **Resumo de Status:**
+- **Recebido**: 6 entradas
+- **Pendente**: 21 saídas
+- **Pago**: 27 saídas
+
+Se precisar de mais detalhes ou análise específica, é só avisar!
+
+
+================================
+
+
+PROMPT: analise os registros e forneça informações sobre as movimentações financeiras
+
+
+
+
+RESPOSTA:
+
+A análise dos seus registros financeiros pode ser dividida em algumas categorias principais: **entradas e saídas**, **distribuição por categorias** e **status das transações**. Vamos detalhar os principais pontos com base nos dados fornecidos.
+
+### **1. Total de Entradas e Saídas:**
+
+#### **Entradas Totais:**
+- **Total de Entradas:** 6 transações de entrada.
+  - **Valor total das entradas:**  
+    5000,00 (08/01/2024) + 800,00 (15/08/2024) + 5000,00 (09/01/2024) + 1200,00 (20/09/2024) + 5000,00 (10/01/2024) + 1500,00 (18/10/2024) = **25.500,00**
+
+#### **Saídas Totais:**
+- **Total de Saídas:** 31 transações de saída.
+  - **Valor total das saídas:**  
+    550,00 + 300,00 + 120,00 + 250,00 + 400,00 + 600,00 + 150,00 + 1200,00 + 450,00 + 180,00 + 80,00 + 200,00 + 750,00 + 350,00 + 450,00 + 600,00 + 350,00 + 500,00 + 800,00 + 300,00 + 250,00 + 150,00 + 250,00 + 500,00 + 300,00 + 250,00 + 250,00 + 220,00 + 500,00 = **13.870,00**
+
+### **2. Distribuição das Entradas e Saídas por Categoria:**
+
+#### **Entradas:**
+- **Renda Fixa (Salário)**: 3 entradas (total de R$ 15.000,00)
+- **Investimentos (Dividendos de Ações)**: 1 entrada (R$ 800,00)
+- **Freelance (Pagamento por Projeto)**: 1 entrada (R$ 1.200,00)
+- **Venda de Ativos (Equipamentos Eletrônicos)**: 1 entrada (R$ 1.500,00)
+
+#### **Saídas:**
+As saídas estão distribuídas entre várias categorias. As mais recorrentes incluem:
+
+- **Alimentação**: 3 transações (total de R$ 1.600,00)
+- **Transporte**: 3 transações (total de R$ 800,00)
+- **Lazer**: 3 transações (total de R$ 500,00)
+- **Saúde**: 4 transações (total de R$ 1.470,00)
+- **Educação**: 4 transações (total de R$ 1.450,00)
+- **Vestuário**: 3 transações (total de R$ 1.500,00)
+- **Serviços**: 4 transações (total de R$ 2.150,00)
+- **Eletrônicos**: 4 transações (total de R$ 4.500,00)
+- **Utilidades Domésticas**: 4 transações (total de R$ 2.750,00)
+- **Presentes**: 4 transações (total de R$ 1.510,00)
+- **Beleza**: 2 transações (total de R$ 330,00)
+- **Pet Care**: 2 transações (total de R$ 350,00)
+- **Gastronomia**: 3 transações (total de R$ 870,00)
+- **Viagem**: 3 transações (total de R$ 2.500,00)
+
+### **3. Status das Transações:**
+
+- **Entradas:**
+  - Todas as entradas estão **recebidas**, totalizando **R$ 25.500,00**.
+
+- **Saídas:**
+  - **Pendente**: 13 transações (total de R$ 7.850,00)
+  - **Pago**: 18 transações (total de R$ 6.020,00)
+
+A maior parte das transações pendentes envolve categorias como **Vestuário**, **Eletrônicos**, **Presentes**, **Viagem**, **Saúde** e **Educação**, o que sugere que você pode ter mais despesas de consumo pessoal e lazer a serem pagas.
+
+### **4. Análise por Categoria de Despesa:**
+
+- **Lazer** (total de R$ 500,00): Trata-se de uma despesa não recorrente, mas significativa, considerando seu valor total em comparação a outras categorias.
+- **Saúde** (total de R$ 1.470,00): As despesas com saúde são um gasto importante, com um total médio de R$ 367,50 por transação.
+- **Vestuário** (total de R$ 1.500,00): Compras com roupas e itens de vestuário, com algumas transações pendentes.
+- **Eletrônicos** (total de R$ 4.500,00): Esta categoria é significativa, especialmente se envolver compras de smartphones, celulares e manutenção de equipamentos eletrônicos.
+- **Viagem** (total de R$ 2.500,00): Despesas com viagens estão em destaque, com valores pendentes para reservas e pagamentos futuros.
+
+### **5. Padrões de Pagamento:**
+
+- **Débito Automático**: Utilizado para pagamento de despesas recorrentes como **alimentação**, **transporte**, **utilidades domésticas** e **beleza**. Esse método está associado a transações menores e frequentes.
+- **Cartão de Crédito**: Usado para compras de maior valor, como **eletrônicos**, **vestuário**, **viagens** e **gastronomia**. Também há uma quantidade considerável de transações pendentes nesse método de pagamento.
+- **Transferência**: A transferência bancária é utilizada em uma variedade de despesas, incluindo **serviços**, **presentes**, **educação** e **saúde**.
+
+### **6. Resumo de Gasto vs. Receita:**
+
+- **Entradas totais**: **R$ 25.500,00**
+- **Saídas totais**: **R$ 13.870,00**
+- **Saldo líquido**: **R$ 11.630,00**
+
+Com base nos dados, parece que você está com um saldo positivo de **R$ 11.630,00** até agora, o que indica uma boa margem de segurança financeira. Isso é importante, pois você ainda tem transações pendentes que podem afetar o fluxo de caixa nos próximos meses.
+
+### **Conclusão:**
+
+- **Salários e fontes de receita** são consistentes e representam a maior parte das entradas.
+- As **despesas recorrentes**, como **alimentação**, **saúde** e **transporte**, estão bem controladas.
+- As **despesas com itens não essenciais**, como **eletrônicos** e **viagens**, estão aumentando, com uma quantidade significativa de compras pendentes.
+- **Lazer**, **presentes** e **viagens** estão entre as categorias com mais transações pendentes, sugerindo que você possa ter planejado alguns gastos a serem feitos em breve.
+
+Você está gerenciando bem suas finanças, mas deve ficar atento às transações pendentes, especialmente se o valor total de compras em **cartão de crédito** for significativo. Se precisar de ajuda para planejar ou revisar seu orçamento para os próximos meses, posso ajudar com isso também!
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================

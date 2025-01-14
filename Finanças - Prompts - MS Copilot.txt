@@ -1,0 +1,163 @@
+PROMPT: Data	Tipo	Categoria	Descrição	Valor	Operação Bancária	Status
+08/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+08/01/2024	SAÍDA	Alimentação	Compras no supermercado	550,00	Débito Automático	Pendente
+08/03/2024	SAÍDA	Transporte	Gasolina	300,00	Cartão de Crédito	Pago
+08/05/2024	SAÍDA	Lazer	Cinema	120,00	Cartão de Crédito	Pago
+08/07/2024	SAÍDA	Saúde	Consulta odontológica	250,00	Transferência	Pago
+08/10/2024	SAÍDA	Educação	Material escolar	400,00	Débito Automático	Pendente
+08/12/2024	SAÍDA	Vestuário	Compra de roupas de inverno	600,00	Cartão de Crédito	Pendente
+15/08/2024	ENTRADA	Investimentos	Dividendos de ações	800,00	Transferência	Recebido
+15/08/2024	SAÍDA	Serviços	Limpeza do apartamento	150,00	Transferência	Pago
+18/08/2024	SAÍDA	Eletrônicos	Compra de novo celular	1200,00	Cartão de Crédito	Pendente
+20/08/2024	SAÍDA	Utilidades Domésticas	Reparos domésticos	450,00	Débito Automático	Pago
+22/08/2024	SAÍDA	Presentes	Presente de aniversário	180,00	Transferência	Pendente
+24/08/2024	SAÍDA	Beleza	Corte de cabelo e barba	80,00	Débito Automático	Pago
+28/08/2024	SAÍDA	Pet Care	Ração e petiscos para o cachorro	200,00	Débito Automático	Pago
+30/08/2024	SAÍDA	Viagem	Reserva de pousada	750,00	Transferência	Pendente
+31/08/2024	SAÍDA	Gastronomia	Jantar em restaurante francês	350,00	Cartão de Crédito	Pago
+09/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+09/02/2024	SAÍDA	Alimentação	Compras no supermercado	450,00	Débito Automático	Pendente
+09/05/2024	SAÍDA	Transporte	Gasolina	300,00	Débito Automático	Pago
+09/08/2024	SAÍDA	Lazer	Cinema e jantar	200,00	Transferência	Pago
+09/11/2024	SAÍDA	Saúde	Plano de saúde	600,00	Débito Automático	Pendente
+14/09/2024	SAÍDA	Educação	Material escolar	350,00	Transferência	Pago
+17/09/2024	SAÍDA	Vestuário	Compra de roupas	500,00	Cartão de Crédito	Pendente
+20/09/2024	ENTRADA	Freelance	Pagamento por projeto freelancer	1200,00	Transferência	Recebido
+20/09/2024	SAÍDA	Serviços	Manutenção do veículo	800,00	Transferência	Pago
+23/09/2024	SAÍDA	Eletrônicos	Compra de novo smartphone	1500,00	Cartão de Crédito	Pendente
+26/09/2024	SAÍDA	Utilidades Dom.	Conta de energia elétrica	250,00	Débito Automático	Pago
+29/09/2024	SAÍDA	Presentes	Aniversário da mãe	400,00	Cartão de Crédito	Pendente
+10/01/2024	ENTRADA	Renda Fixa	Salário mensal	5000,00	Transferência	Recebido
+10/01/2024	SAÍDA	Alimentação	Compras no supermercado	600,00	Débito Automático	Pendente
+10/03/2024	SAÍDA	Transporte	Recarga de cartão de transporte	200,00	Cartão de Crédito	Pago
+10/05/2024	SAÍDA	Lazer	Ingressos para teatro	180,00	Transferência	Pago
+10/08/2024	SAÍDA	Saúde	Remédios de farmácia	120,00	Débito Automático	Pendente
+10/10/2024	SAÍDA	Educação	Cursos online	350,00	Cartão de Crédito	Pendente
+13/10/2024	SAÍDA	Vestuário	Roupas de primavera	400,00	Transferência	Pago
+15/10/2024	SAÍDA	Serviços	Manutenção da casa	450,00	Débito Automático	Pago
+18/10/2024	ENTRADA	Venda de ativos	Venda de equipamentos eletrônicos	1500,00	Transferência	Recebido
+18/10/2024	SAÍDA	Eletrônicos	Manutenção do computador	300,00	Cartão de Crédito	Pendente
+20/10/2024	SAÍDA	Utilidades Domésticas	Troca de móveis da cozinha	800,00	Transferência	Pago
+22/10/2024	SAÍDA	Presentes	Presentes para casamento	250,00	Cartão de Crédito	Pendente
+24/10/2024	SAÍDA	Pet Care	Veterinário para o pet	150,00	Débito Automático	Pago
+26/10/2024	SAÍDA	Beleza	Salão de beleza	250,00	Transferência	Pendente
+30/10/2024	SAÍDA	Gastronomia	Jantar em restaurante italiano	220,00	Transferência	Pendente
+31/10/2024	SAÍDA	Viagem	Reserva de hotel para fim de semana	500,00	Cartão de Crédito	Pendente
+
+
+RESPOSTA:
+
+I can help you analyze and organize this financial data. Here are some potential insights:
+
+1. **Monthly Income and Expenses:**
+   - You receive a fixed salary of R$5000,00 each month.
+   - Additional income from dividends, freelance work, and selling assets boosts your monthly earnings.
+
+2. **Categories with Higher Expenses:**
+   - **Alimentação (Food):** Frequent supermarket purchases.
+   - **Transporte (Transport):** Regular expenses on gasoline and transportation cards.
+   - **Educação (Education):** Consistent spending on school materials and courses.
+   - **Eletrônicos (Electronics):** High one-time purchases on new gadgets.
+
+3. **Pending Transactions:**
+   - Keep an eye on pending transactions to ensure they are completed on time.
+
+4. **Opportunities for Savings:**
+   - Consider reducing discretionary spending on **Lazer (Entertainment)** and **Vestuário (Clothing)**.
+
+Would you like a detailed breakdown or perhaps some visual graphs to better understand this data? Or maybe advice on budgeting or investments?
+
+
+================================
+
+
+
+PROMPT: sim, gostaria de mais detalhes. Responda em postugês do brasil
+
+
+RESPOSTA:
+
+Claro! Vamos detalhar um pouco mais essas informações financeiras:
+
+### Análise Mensal
+
+#### **Entradas (Receitas):**
+- **Salário mensal:** R$5000,00 (recebido nos dias 08, 09 e 10 de cada mês)
+- **Dividendos de ações:** R$800,00 (recebido em 15/08/2024)
+- **Pagamento por projeto freelancer:** R$1200,00 (recebido em 20/09/2024)
+- **Venda de equipamentos eletrônicos:** R$1500,00 (recebido em 18/10/2024)
+
+#### **Saídas (Despesas):**
+As categorias de despesas variam bastante, mas aqui estão as principais:
+
+1. **Alimentação:**
+   - Compras no supermercado (08/01/2024, 09/02/2024, 10/01/2024): Média de R$533,33 por mês
+
+2. **Transporte:**
+   - Gasolina (08/03/2024, 09/05/2024): R$300,00 cada mês
+   - Recarga de cartão de transporte (10/03/2024): R$200,00
+
+3. **Educação:**
+   - Material escolar (08/10/2024, 14/09/2024): Média de R$375,00 por compra
+   - Cursos online (10/10/2024): R$350,00
+
+4. **Eletrônicos:**
+   - Compra de novo celular (18/08/2024, 23/09/2024): Média de R$1350,00 por compra
+   - Manutenção de computador (18/10/2024): R$300,00
+
+### Despesas Pendentes:
+Existem várias despesas pendentes que você precisa acompanhar:
+- **Compras no supermercado:** R$550,00 (08/01/2024) e R$450,00 (09/02/2024)
+- **Compras de roupas de inverno:** R$600,00 (08/12/2024)
+- **Compra de novo smartphone:** R$1500,00 (23/09/2024)
+- **Reserva de pousada:** R$750,00 (30/08/2024)
+- **Presente de aniversário:** R$180,00 (22/08/2024)
+
+### Sugestões de Economia:
+- **Lazer:** Talvez reduzir algumas idas ao cinema ou refeições fora.
+- **Vestuário:** Revisar a necessidade de compras frequentes de roupas.
+- **Eletrônicos:** Avaliar se todas as aquisições de eletrônicos são essenciais.
+
+Se precisar de gráficos ou mais alguma análise detalhada, é só avisar!
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================
+
+
+PROMPT: 
+
+
+
+
+RESPOSTA:
+
+
+
+
+================================
